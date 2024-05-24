@@ -1,1 +1,37 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#palo {
+  font-size: 50px;
+  transform: scaleY(-1);
+  border-radius: 70px;
+  padding: 20px;
+  background-color: #fff;
+  text-align: center;
+  width: 120px;
+  height: 120px;
+  position: relative;
+  margin: auto;
+}
+
+#cartas {
+  font-size: 50px;
+  border-radius: 70px;
+  padding: 25px;
+  background-color: #fff;
+  text-align: center;
+  width: 120px;
+  height: 100px;
+  position: relative;
+  margin: auto;
+}
+
+#palo-2 {
+  font-size: 50px;
+  border-radius: 70px;
+  padding: 45px;
+  background-color: #fff;
+  text-align: center;
+  width: 120px;
+  height: 140px;
+  position: relative;
+  margin: auto;
+}
